@@ -1,4 +1,4 @@
-# Many Time Pad Attack on reused stream cipher example.
+#  Attack on a reused One-Time Pad stream cipher. example.
 
 Created for Cyber Security labs at WPPT, PWr
 
