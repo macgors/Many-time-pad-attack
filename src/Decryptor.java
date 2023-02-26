@@ -38,23 +38,6 @@ public class Decryptor {
         freq.put((int)'q', 1);
         freq.put((int)'v', 1);
         freq.put((int)'x', 1);
-//        freq.put((int)',', 10);
-//        freq.put((int)'.', 10);
-//        freq.put((int)'-', 10);
-//        freq.put((int)'"', 10);
-//        freq.put((int)'!', 10);
-//        freq.put((int)'?', 10);
-//        freq.put((int)':', 10);
-//        freq.put((int)';', 10);
-//        freq.put((int)'(', 10);
-//        freq.put((int)')', 10);
-//
-//        for (int i = 65; i < 91; i++) {
-//            freq.put(i, 10);
-//        }
-//        for (int i = 48; i <= 57; i++) {
-//            freq.put(i, 10);
-//        }
      }
 
     public void get_cryptograms(String filepath) {
